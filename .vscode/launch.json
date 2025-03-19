@@ -8,6 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+      "cwd": "c:/Users/prajw/OneDrive/Documents/C++/DSA",
+      "program": "c:/Users/prajw/OneDrive/Documents/C++/DSA/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
